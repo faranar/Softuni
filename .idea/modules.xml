@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BASICS/Exam/Exam.iml" filepath="$PROJECT_DIR$/BASICS/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/fundamentals/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/BASICS/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/BASICS/Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/FSIC_exercise/FSIC_exercise.iml" filepath="$PROJECT_DIR$/BASICS/FSIC_exercise/FSIC_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/First project/First project.iml" filepath="$PROJECT_DIR$/BASICS/First project/First project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentals/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/fundamentals/LAB1/LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/BASICS/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/BASICS/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUni_2023.iml" filepath="$PROJECT_DIR$/.idea/SoftUni_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/examprep/examprep.iml" filepath="$PROJECT_DIR$/BASICS/examprep/examprep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/exercise4/exercise4.iml" filepath="$PROJECT_DIR$/BASICS/exercise4/exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/exercise5/exercise5.iml" filepath="$PROJECT_DIR$/BASICS/exercise5/exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/exercise6/exercise6.iml" filepath="$PROJECT_DIR$/BASICS/exercise6/exercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/lab4/lab4.iml" filepath="$PROJECT_DIR$/BASICS/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/lab5/lab5.iml" filepath="$PROJECT_DIR$/BASICS/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASICS/lab6/lab6.iml" filepath="$PROJECT_DIR$/BASICS/lab6/lab6.iml" />
+    </modules>
+  </component>
+</project>

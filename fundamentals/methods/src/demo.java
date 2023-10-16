@@ -3,9 +3,12 @@ import java.util.Scanner;
 public class demo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        hello(scanner.nextLine(), Integer.parseInt(scanner.nextLine()));
+        String result = fullName(scanner);
+        System.out.println(result);
     }
-    public static void hello(String name, int age){
-        System.out.printf("Hello %s, age:%d! \n", name, age);
+    public static String fullName(Scanner scanner){
+        String firstName = scanner.nextLine();
+        String lastName = scanner.nextLine();
+        return String.format("%s %s",firstName,lastName);
     }
 }
